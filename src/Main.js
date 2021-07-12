@@ -17,7 +17,7 @@ export default function Main() {
         <AppBody>    
             <BrowserRouter>
              <Switch>
-            <Route exact path="/holofy" component={Holofy} />
+            <Route exact path="/" component={Holofy} />
             {/* <h3>dsa</h3> */}
             </Switch>
             </BrowserRouter>
