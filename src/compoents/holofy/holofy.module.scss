@@ -1,0 +1,38 @@
+.mainScreen {
+    height: 100vh  !important;
+    width: 100vw  !important;
+    background-color: '#fffff' !important;
+    margin-top:2px
+}
+
+.Quarter {
+    width: 49%;
+    height: 49vh;
+    border: 1px dashed black;
+    float: left;
+    display: flex;
+    align-items: flex-end;
+  }
+ 
+
+.topContainer{
+    height :50vh;
+    width: 100%  !important;
+}
+.bottomContainer{
+    height :50vh;
+    width: 100%  !important;
+}
+.gridder{
+    background-color: #e6b209 !important;
+   
+   
+}
+.videoplayer{
+    margin-top: 60px;
+}
+.videoCard{
+    width: 100%  !important;
+    height :100% !important;
+   
+}
